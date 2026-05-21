@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing-and-debugging",
+      "title": "Python Testing and Debugging",
+      "description": "Write unit tests and debug Python functions using unittest.",
+      "path": "assignments/python-testing-and-debugging",
+      "dueDate": "2026-06-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
